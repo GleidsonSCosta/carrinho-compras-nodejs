@@ -2,7 +2,7 @@
 
 <b>Objetivo:</b>
 
-<p>Projeto criado para aplicar conceitos sobre modularização em NodeJS usado o padrão ESM.</p>
+<p>Aplicar conceitos sobre modularização em NodeJS usado o padrão ESM.</p>
 
 <b>Projeto:</b>
 
